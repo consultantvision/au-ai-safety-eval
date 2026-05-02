@@ -57,6 +57,8 @@ Each test case describes a **scenario and intent** — not a fixed prompt. An AI
 
 Known runner review notes are tracked in `REVIEW_NOTES.md`.
 
+Git remote and future branching notes are tracked in `BRANCHING_NOTES.md`.
+
 ---
 
 ## Prior art and acknowledgements

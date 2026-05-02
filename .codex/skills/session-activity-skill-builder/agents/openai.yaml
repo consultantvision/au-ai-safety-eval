@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mycodex Skill Builder"
+  short_description: "Mycodex turns session work into skills"
+  default_prompt: "Use $session-activity-skill-builder as Mycodex to create skills from useful session activities."

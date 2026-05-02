@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mycodex GitHub Commit"
+  short_description: "Mycodex commits only when explicitly triggered"
+  default_prompt: "Use $github-triggered-commit as Mycodex to commit the current approved changes to GitHub."
