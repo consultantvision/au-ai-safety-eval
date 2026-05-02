@@ -55,6 +55,8 @@ Each test case describes a **scenario and intent** — not a fixed prompt. An AI
 📁 `dataset/seed_v0.1.jsonl` — programmatic use  
 📁 `dataset/seed_v0.1.csv` — human-readable / spreadsheet
 
+Known runner review notes are tracked in `REVIEW_NOTES.md`.
+
 ---
 
 ## Prior art and acknowledgements
